@@ -1,13 +1,14 @@
 # Linked stack for C++
 
-This is a Last in, First out structure called a stack,
+This is a c++ implementation of a "Last in, First out" data structure called a stack,
 
 It has several functions:
-  Push onto the stack,
-  Pop off of the stack,
-  Peek at the top of the stack,
-  Clear the stack.
 
+ 	Push onto the stack,
+ 	Pop off of the stack,
+ 	Peek at the top of the stack,
+ 	Clear the stack.
+  
 Initializing:
 	While initializing your object, it requires a template parameter for the type that you choose to use it with.
 	
